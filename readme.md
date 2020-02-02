@@ -21,18 +21,18 @@ The IOT Side would choice node MCU,not done yet.
 After the module ready(see as notice below),make the flask web server running,
 
 - Check the server is running,entering localhost:5000 in browser :
-```
-![](/smart_door/people_i_know/hello_flask.png)
-```
+
+![](https://github.com/maxmaterial/smart_door/blob/master/people_i_know/hello_flask.png)
+
 - Take pic by entering hello + name: localhost:5000/hello/"yourname" in browser
-```
-![](smart_door/people_i_know/tk_pic.png)
-```
+
+![](https://github.com/maxmaterial/smart_door/blob/master/people_i_know/tk_pic.png)
+
 
 - Face recognize,entering localhost:5000/whois in browser
-```
-![](smart_door/people_i_know/Who_am_i.jpg)
-```
+
+![](https://github.com/maxmaterial/smart_door/blob/master/people_i_know/Who_am_i.png)
+
 
 ## Notice:
 >The project didn't provide facenet,In order  to run facenet project,suggest following step: 
